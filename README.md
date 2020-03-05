@@ -1,3 +1,1 @@
 # My First Project
-
-hi
